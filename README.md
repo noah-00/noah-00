@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=flat"> <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat"> <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat">
 
 <!-- Framework, Library -->
-<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat"> <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
+<img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat"> <img src="https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=flat"> <img src="https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat"> <img src="https://img.shields.io/badge/-Nuxt.js-00C58E.svg?logo=nuxt.js&style=flat"> <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
 
 <!-- OS, Infrastructure -->
 <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=flat"> <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=flat">
