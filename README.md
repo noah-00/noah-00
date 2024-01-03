@@ -21,3 +21,9 @@
 <a href="https://www.credly.com/badges/a668199b-f4e8-462a-8d2e-f6dbcc4cf826/public_url">
 <img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533438-48ad8d80-6c02-11eb-9b50-7589e676af34.png" alt="AWS Solutions Architect Associate" />
 </a>
+
+## ℹ️ More information about me
+
+<a href="https://noah-profile.vercel.app/" target="_blank">
+  <p>Click here</p>
+</a>
