@@ -22,6 +22,10 @@
 <img class="icon-image" height="100" src="https://user-images.githubusercontent.com/58158037/107533438-48ad8d80-6c02-11eb-9b50-7589e676af34.png" alt="AWS Solutions Architect Associate" />
 </a>
 
+## 📘 Blog
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/noah-00)
+
+
 ## ℹ️ More information about me
 
 <a href="https://noah-profile.vercel.app/" target="_blank">
