@@ -20,11 +20,11 @@
 <br>
 ▶  Skilled in developing web applications and designing serverless architectures using IaC.
 <br>
-▶  Originally from Japan, now based in Vancouver, Canada 🇨🇦
+▶  Originally from Japan 🇯🇵, now based in Vancouver, Canada 🇨🇦.
 <br>
-▶  How to reach me: [0.0.0.11.noah@gmail.com](mailto:0.0.0.11.noah@gmail.com)
+▶ How to contact me: [0.0.0.11.noah@gmail.com](mailto:0.0.0.11.noah@gmail.com)
 <br>
-▶  Click [here](https://noah-profile.vercel.app/) to learn more about me!
+▶  Discover more about me [here](https://noah-profile.vercel.app/)!
 <br>
 
 <br>
