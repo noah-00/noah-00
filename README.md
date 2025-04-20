@@ -16,29 +16,27 @@
 
 ## 🧑‍💻 About Me
 
-▶  Frontend Developer with over 3 years of experience specializing in TypeScript, React, and Next.js.
-<br>
-▶  Skilled in developing web applications and designing serverless architectures using IaC.
-<br>
-▶  Originally from Japan 🇯🇵, now based in Vancouver, Canada 🇨🇦.
-<br>
-▶ How to contact me: [0.0.0.11.noah@gmail.com](mailto:0.0.0.11.noah@gmail.com)
-<br>
-▶  Discover more about me [here](https://noah-profile.vercel.app/)!
-<br>
+▶  Frontend Developer with approximately 4 years of experience specializing in TypeScript, React, and Next.js.
 
-<br>
+▶  Skilled in developing web applications and designing serverless architectures using IaC.
+
+▶  Originally from Japan 🇯🇵, now based in Vancouver, Canada 🇨🇦.
+
+▶  How to contact me: [naoya.ishizaka.tech@gmail.com](mailto:naoya.ishizaka.tech@gmail.com)
+
+▶  Discover more about me [here](https://noah-profile.vercel.app/)!
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noah-00&theme=dracula)
 
 ## 🛠 Tech Stack
 
 <!-- Language -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py,ruby)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,py)
 
 
 <!-- Framework, Library -->
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,fastapi,rails,d3,redux,tailwind,vuetify,vitest)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,fastapi,d3,redux,tailwind,vuetify,vitest)
 
 <!-- OS, Infrastructure -->
 ![My Skills](https://skillicons.dev/icons?i=aws,linux)
