@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-▶  Frontend Developer with approximately 4 years of experience specializing in TypeScript, React, and Next.js.
+▶  Frontend Developer with 5 years of experience specializing in TypeScript, React, and Next.js.
 
 ▶  Skilled in developing web applications and designing serverless architectures using IaC.
 
