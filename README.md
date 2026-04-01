@@ -18,8 +18,6 @@
 
 ▶  Frontend Developer with 5 years of experience specializing in TypeScript, React, and Next.js.
 
-▶  Skilled in developing web applications and designing serverless architectures using IaC.
-
 ▶  Originally from Japan 🇯🇵, now based in Vancouver, Canada 🇨🇦.
 
 ▶  How to contact me: [naoya.ishizaka.tech@gmail.com](mailto:naoya.ishizaka.tech@gmail.com)
